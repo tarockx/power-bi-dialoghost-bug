@@ -1,0 +1,26 @@
+{
+    "visual": {
+        "name": "dialoghostBug",
+        "displayName": "DialoghostBug",
+        "guid": "dialoghostBugE1E83084AFC04720B2D770F3C92687EE",
+        "visualClassName": "Visual",
+        "version": "1.0.0.0",
+        "description": "",
+        "supportUrl": "",
+        "gitHubUrl": ""
+    },
+    "apiVersion": "5.11.0",
+    "author": {
+        "name": "",
+        "email": ""
+    },
+    "assets": {
+        "icon": "assets/icon.png"
+    },
+    "externalJS": [],
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": [],
+    "version": "1.0.0.0"
+}
